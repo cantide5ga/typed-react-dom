@@ -2,6 +2,6 @@
     "name": "react-dom",
     "main": "react-dom.d.ts",
     "dependencies": {
-        "react": "github:cantide5ga/typed-react#da79b0020eb59310a9dc9c0eedcf6ebf7aca972e"
+        "react": "github:cantide5ga/typed-react"
     }
 }
