@@ -8,7 +8,8 @@ import {
     SFCElement,
     Component,
     CElement,
-    ReactElement 
+    ReactElement,
+    ComponentState 
 } from 'react';
 
 declare namespace ReactDom {
