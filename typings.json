@@ -1,6 +1,10 @@
 {
     "name": "react-dom",
     "main": "react-dom.d.ts",
+    "files": [
+        "react-dom.d.ts",
+        "server.d.ts"
+    ],
     "dependencies": {
         "react": "github:cantide5ga/typed-react#42692d400db3c333394ec75bce9f6d09b5a0a769"
     }
